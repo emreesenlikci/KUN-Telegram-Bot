@@ -1,0 +1,12 @@
+{
+    "bot_token" : "TELEGRAM_BOT_TOKEN",
+    "chat_id" : "TELEGRAM_CHAT_ID",
+    "host" : "POSTAGRESQL_HOST",
+    "database" : "POSTAGRESQL_DB_NAME",
+    "port" : "POSTAGRESQL_PORT",
+    "user" : "POSTAGRESQL_USER",
+    "password" : "POSTAGRESQL_PASS",
+    "url_duyuru" : "https://kapadokya.edu.tr/duyurular",
+    "url_etkinlik" : "https://kapadokya.edu.tr/etkinlikler",
+    "version" : "0.1"
+}
