@@ -5,7 +5,8 @@ Kapadokya Ünversitesi için özel hazırlanmış olan bir telegram botudur. Bot
 ### **Update Log 0.1**
 
 * Artık ayarlar settings.json dan çekilecek.
-* Kod bölümlere ayrılmış şekilde çalıştırılabilir.
-* Veri tabanı düzenleri eklendi.
+* Veri tabanı düzenleri ve kontrolleri eklendi.
 * Duyuru ve Etkinlikler için sayfa detayları eklendi.
 * Telegram düzenlemeleri yapıldı.
+* Etkinlik takibi sağlandı.
+* Log kayıt sistemi eklendi.
